@@ -1,0 +1,21 @@
+{
+  "name": "eyelensbazarserver",
+  "version": "1.0.0",
+  "description": "Eye lens bazar hosting server ",
+  "main": "index,js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Sanjay Panwar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.3",
+    "mongose": "^4.11.3",
+    "multer": "^1.3.0"
+  }
+}
